@@ -1,7 +1,7 @@
 {
   "name": "gh-search",
   "version": "1.0.0",
-  "description": "Search GitHub",
+  "description": "Search GitHub from the command line.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,8 @@
   "bin": {
     "gh-search": "index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["github", "search", "cli", "csv"],
+  "author": "David MacCallum <davidjohnmac@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "github-api": "^3.4.0",
