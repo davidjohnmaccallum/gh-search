@@ -12,6 +12,10 @@
   "keywords": ["github", "search", "cli", "csv"],
   "author": "David MacCallum <davidjohnmac@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidjohnmaccallum/gh-search-csv"
+  },
   "dependencies": {
     "github-api": "^3.4.0",
     "yargs": "^16.2.0"
