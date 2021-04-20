@@ -1,5 +1,5 @@
 {
-  "name": "gh-search",
+  "name": "gh-search-csv",
   "version": "1.0.0",
   "description": "Search GitHub from the command line.",
   "main": "index.js",
